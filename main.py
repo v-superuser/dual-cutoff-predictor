@@ -2,7 +2,7 @@ import csv
 
 FILE="file.csv"
 FILE_2="alloted.csv"
-branch = {'1':7,'2':8,'3':13,'4':10,'7':22,'8':5,'A':13,'B':10}
+branch = {'1':7,'2':8,'3':13,'4':10,'7':22,'8':5,'A':13,'B':5}
 cutoff = {'1':10,'2':10,'3':10,'4':10,'7':10,'8':10,'A':10,'B':10}
 
 def parse(raw_file, delimiter):
